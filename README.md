@@ -1,2 +1,6 @@
 # SteamDownloadStreamer
-test project python
+
+Проект для отслеживания скорости загрузки игры через steam
+
+Выполнение:
+Запусти Streamer.py
